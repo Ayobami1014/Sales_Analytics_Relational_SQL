@@ -11,7 +11,7 @@ The database models a typical sales organization, including:
 - Sales representatives with managerial hierarchy who sell the products to customers
 - Customers who buy the company's products, the customer representative and their credit limits
 - Orders placed by those customers - Quantity placed and amount
-Products and description of goods and pricing together with quantity-on-hand
+- Products and description of goods and pricing together with quantity-on-hand
 
 ## Tools used
 SQL Sever 
