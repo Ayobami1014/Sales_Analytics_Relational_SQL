@@ -17,9 +17,9 @@ Products and description of goods and pricing together with quantity-on-hand
 SQL Sever 
 
 ## Project Structure
-'schema.sql' - Database tables, keys, and constraints
-'inserts/' - Data population scripts
-'README.md' - project overview and business context
+- 'schema.sql' - Database tables, keys, and constraints
+- 'inserts/' - Data population scripts
+- 'README.md' - project overview and business context
 
 ## core SQL skills Demonstrated
 Relational database design
