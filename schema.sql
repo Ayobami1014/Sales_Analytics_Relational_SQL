@@ -1,0 +1,2 @@
+-- Database schema for Sales Anaytics Relational SQL project
+-- Include tables, relationships, and integrity constraints
