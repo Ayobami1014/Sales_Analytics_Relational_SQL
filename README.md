@@ -1,4 +1,4 @@
-# Sales_Analytics_Relational_SQL
+# Sales Analytics Relational SQL
 This project demonstrates advanced SQL expertise through the design and analysis of a relational sales database.
 It emphasizes strong data modelling, refrential integrity, relationships, and analytics queries that support real business decisions.
 
@@ -15,6 +15,11 @@ Products and description of goods and pricing together with quantity-on-hand
 
 ## Tools used
 SQL Sever 
+
+## Project Structure
+'schema.sql' - Database tables, keys, and constraints
+'inserts/' - Data population scripts
+'README.md' - project overview and business context
 
 ## core SQL skills Demonstrated
 Relational database design
